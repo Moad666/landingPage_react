@@ -164,7 +164,7 @@ function App() {
               <h2 className="font-myanmar text-xl font-semibold mb-2">
                 Discord
               </h2>
-              <p className="font-myanmar text-gray-700">Meo_666</p>
+              <p className="font-myanmar text-gray-700">moadelotmani666</p>
             </div>
           </div>
         </div>

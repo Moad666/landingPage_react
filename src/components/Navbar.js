@@ -28,7 +28,7 @@ function Navbar() {
 
         {/* Discord */}
         <a
-          href="https://discordapp.com/users/Meo_666"
+          href="https://discordapp.com/users/moadelotmani666"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-blue-500"
